@@ -1,8 +1,14 @@
 HelloOS ROM
 ===========
-HelloOS is a Custom ROM based on [Android Open Source Project](https://android.googlesource.com/), which focuses on simplicity, stability and some things from the big M.
+HelloOS is a Custom ROM based on [Android Open Source Project](https://android.googlesource.com/), which focuses on simplicity, stability and some things from Moto*.
 
 - [Manifest](https://github.com/HelloOS-AOSP/manifest)
+
+### Credits
+- Project Pixelage
+- LineageOS ROM
+- Project Kaleidoscope
+- and others... :)
 
 ### Apply for Maintainership
 
