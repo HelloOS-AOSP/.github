@@ -1,3 +1,5 @@
+![HelloOS](https://raw.githubusercontent.com/HelloOS-AOSP/.github/main/profile/Hello.jpg)
+
 HelloOS ROM
 ===========
 HelloOS is a Custom ROM based on [Android Open Source Project](https://android.googlesource.com/), which focuses on simplicity, stability and some things from Moto*.
