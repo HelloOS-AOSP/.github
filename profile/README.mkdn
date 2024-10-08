@@ -1,0 +1,24 @@
+HelloOS ROM
+===========
+HelloOS is a Custom ROM based on [Android Open Source Project](https://android.googlesource.com/), which focuses on simplicity, stability and some things from the big M.
+
+- [Manifest](https://github.com/HelloOS-AOSP/manifest)
+
+### Apply for Maintainership
+
+Bring your device to OFFICIAL maintenance:
+
+- Coming soon!
+
+Here are some points to note while applying the official maintainership :-
+
+- Your device sources must be public, exceptions could be followed but the team eye must to be kept. However kernel source must be fully publically pushed as per GPL requirements..
+- You must have proper resources (server/local machine) to build. It should always be your headache to arrange one. Team won't be providing any ci/jenkins.
+- Respect commit history of your sources and maintain proper authorships.
+- You must not be maintaining more than two OFFICIAL/UNOFFICIAL ROMs before applying to join HelloOS.
+- You must have released at least one functional UNOFFICIAL build before applying for OFFICIAL status.
+
+### Reach US
+
+- [Telegram Announcements/Device Updates](https://t.me/HelloOSUpdates)
+- [Telegram Discussion Group](https://t.me/HelloOSROM)
